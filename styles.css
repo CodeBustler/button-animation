@@ -103,4 +103,7 @@ footer {
   margin-top: 30px;
   text-align: center;
   color: gray;
+  position: absolute;
+  bottom: 20px;
+  right: 40%;
 }
